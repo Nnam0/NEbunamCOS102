@@ -1,0 +1,17 @@
+
+1. Start
+2. Display total amount due
+3. Prompt user to select payment method (e.g., cash, credit card, mobile payment)
+4. If payment method is cash:
+     i Prompt user to enter cash amount
+     ii Calculate change (if applicable)
+     iii Display receipt
+5. If payment method is credit card:
+     i Prompt user to enter credit card information
+     ii Process payment
+     iii Display receipt
+6. If payment method is mobile payment:
+     i Prompt user to initiate mobile payment
+     ii Process payment
+     iii Display receipt
+7. End
